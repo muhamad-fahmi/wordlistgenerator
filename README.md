@@ -1,1 +1,2 @@
-# wordlistgenerator
+# wordlistgenerator CLI
+
